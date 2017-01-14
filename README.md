@@ -1,3 +1,3 @@
-As the concept of open science is becoming more widely known, it is worth taking a step back on occasion to look at how it evolved in theory and practice. In many other contexts, such functionality is provided by museums, so for the time being, the thoughts here are going to be assembled under the realm of the Open Science Museum.
+As the concept of open science is becoming more popular, it is worth taking a step back on occasion to look at how it evolved in theory and practice. In many other contexts, such functionality is provided by museums, so for the time being, the thoughts here are going to be assembled under the assumption that there will be an Open Science Museum one day.
 
 The term is intentionally ambiguous in that it can be interpreted to refer to an *open science* museum as described above or an open *science museum*, which would be pretty similar to the classical science museums, but with a focus on open science, hands-on and reproducibility.
