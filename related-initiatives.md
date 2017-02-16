@@ -19,7 +19,9 @@ This file collects information about initiatives that cover some aspects of an o
 
 ### Data museums
 
-## Open knowledge collections
+## Other digital collections
 
-### [OpenGLAM](https://openglam.org/)
+### Open knowledge collections
+
+#### [OpenGLAM](https://openglam.org/)
 
